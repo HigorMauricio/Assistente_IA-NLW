@@ -32,7 +32,9 @@ Utiliza a API do **Gemini 2.5 Flash** para gerar respostas rápidas, atualizadas
 ## Site junto ao GitHub Pages
 Para visualizar o site acesse: 
 
-        https://higormauricio.github.io/Assistente_IA-NLW/
+```sh
+https://higormauricio.github.io/Assistente_IA-NLW/
+```
 
 1. Insira sua **API KEY** do Gemini.
 2. Selecione o jogo desejado.
