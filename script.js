@@ -28,7 +28,7 @@ const perguntarIA = async (question, game, apiKey) => {
         - Nunca responda itens que você não tenha certeza de que exista na ultima versão do jogo.
 
         ## Resposta
-        - Economize na resposta, seja direto e responda com no máxime 500 caracteres. Responda em Markdown, preferencialmente em tópicos.
+        - Economize na resposta, seja direto e responda com no máximo 500 caracteres. Responda em Markdown, preferencialmente em tópicos.
         - Não faça saudações ou despedidas.
         - Não responda além da pergunta feita.
         
